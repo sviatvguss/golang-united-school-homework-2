@@ -16,7 +16,7 @@ const (
 	SidesSquare   = 4
 )
 
-const Pi = 3.14
+const Pi = 3.1415
 
 func CalcSquare(sideLen float64, sidesNum int) float64 {
 	switch sidesNum {
